@@ -331,6 +331,14 @@ body{
     padding: 2em 0 0em;
     text-indent: 2em;
 }
+.self-link{
+    padding: 1em 0 0em;
+    text-indent: 2em;
+}
+
+.self-link p {
+    float:left;
+}
 .my-intro p a{
     color: #2a6496;
     font-size: 14px;
